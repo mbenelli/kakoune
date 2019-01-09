@@ -1,0 +1,2 @@
+namespace Kakoune { const char* version = "@KAKOUNE_VERSION@"; }
+
